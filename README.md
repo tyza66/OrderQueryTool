@@ -1,5 +1,7 @@
 # OrderQueryTool
 ### 订单管理工具
+- 纯前后端分离项目
+- 前端使用Vue.js，后端使用SpringBoot系列和一些常用依赖
 - 一次面试的机考题目
 - 实现了完善的登录、注册
 - 使用MyBatis Plus实现了联表查询
